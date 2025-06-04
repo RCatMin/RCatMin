@@ -1,12 +1,8 @@
-<h1 align="center">🔔 The Only Easy Day Was Yesterday 🔔</h1>
-
 ###
 
-<h2 align="center">끝까지 물고 늘어져서 더 좋은 결과를 찾아내는 개발자<br>이민수입니다.</h2>
-
-###
-
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Spring%20Cat&textBg=false&section=header&reversal=false" />
+</div>
 
 <h2 align="center">📫 Contact 📫</h2>
 
