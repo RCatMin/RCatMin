@@ -6,8 +6,6 @@
 
 ###
 
-<p align="center">웹 백엔드 신입 개발자로 활동 중이며<br>Spring, RESTAPI 등을 다루고 있습니다.</p>
-
 ###
 
 <h2 align="center">📫 Contact 📫</h2>
